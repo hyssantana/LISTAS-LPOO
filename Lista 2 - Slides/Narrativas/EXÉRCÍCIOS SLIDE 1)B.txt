@@ -1,0 +1,5 @@
+1. Receba três números
+2. Se o primeiro número for maior que o segundo, inverter de posição.
+3. Se o segundo for maiorque o terceiro, inverter de posição.
+4. Se o primeiro for maior que o segundo, inverta novamente.
+5. Mostre o primeiro, o segundoe o terceiro do menor para o maior.

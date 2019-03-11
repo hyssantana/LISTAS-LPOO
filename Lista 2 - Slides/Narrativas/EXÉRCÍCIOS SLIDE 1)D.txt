@@ -1,0 +1,12 @@
+1. Receba altura.
+2. Receba peso.
+3. Se a altura for menor que 1,20 e o peso menor até 60, escreva: Sua classificação é A;
+3. Se a altura for menor 1,20 e o peso entre 60 e 90 (inclusive), escreva: Sua classificação é D;
+4. Se a altura for menor que 1,20  e o peso acima de 90, escreva: Sua classificação é G;
+5. Se a altura for de 1,20 a 1,70 e o peso até 60, escreva: Sua classificação é B;
+6. Se a altura for 1,20  a 1,70 e o peso entre 60 e 90 (inclusive), escreva: Sua classificação é E
+7. Se altura for de 1,20 a 170 e o peso acima de 90, escreva: Sua classificação é H;
+8. Se a altura for maior que 1,70 e o peso até 60, escreva: Sua classificação é C;
+9. Se a altura for maior que 1,70 e o peso entre 60 e 90 (inclusive), escreva: Sua classificação é F;
+10. Se altura for maior que 1,70 e o peso acima de 90, escreva: Sua classificação é I;
+

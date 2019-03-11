@@ -1,0 +1,4 @@
+1. Receber dois números
+2. Verificar se os dois números são iguais, se sim, diga que são iguais.
+3. Se não, se o primeiro número for maior que o primeiro, mostrar o primeiro como resultado.
+4. Se o segundo número for maior que o primeiro, mostrar o segundo número como resultado.
